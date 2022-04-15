@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_b7e1f403-8d77-4676-b048-400378aa2acf>
+            <exclude_filters>
+                <exclude_filter>Snake.wav</exclude_filter>
+                <exclude_filter>BattleCity.mp3</exclude_filter>
+                <exclude_filter>BaskervilleSemiBold.ttf</exclude_filter>
+                <exclude_filter>mtbaskervilleetw15-roma.ttf</exclude_filter>
+                <exclude_filter>__pycache__</exclude_filter>
+            </exclude_filters>
+            <name>Python Source Group</name>
+            <source_extensions>
+                <source_extension>.py</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>Snake.py</source_path>
+                <source_path>SnakeGame.py</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>Python Source Group</type>
+        </source_group_b7e1f403-8d77-4676-b048-400378aa2acf>
+    </source_groups>
+    <version>8</version>
+</config>
